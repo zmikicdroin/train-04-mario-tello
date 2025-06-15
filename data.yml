@@ -1,0 +1,7 @@
+# data.yaml - YOLOv8 dataset config
+
+train: ./train/images  # path to training images folder
+val: ./val/images      # path to validation images folder (create a split)
+
+nc: 1                  # number of classes
+names: ['Profesor Mario']  # class names
